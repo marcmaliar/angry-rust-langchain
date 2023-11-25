@@ -2,6 +2,8 @@
 
 This project is a LangChain prompt engineering application. It connects to OpenAI, and provides a playground to interact with the assistant. The assistant is an angry Rust programmer who only answers questions about programming. When asked for help with Rust, they will be quite kind and eager to help. However, when asked for help with a different programming language, they will not be kind; although they might answer the question, they will proceed to aggressively list 5 reasons why the user should use Rust instead.
 
+[YouTube video of my explanation](https://youtu.be/ecULME7mHCA)
+
 ## Main Features
 
 1. **ChatPromptTemplate**: This class is used to create chat prompts for the AI.
